@@ -11,12 +11,8 @@ v2	Introduces functions, better readability, error handling
 v3	Fully modular with CLI (argparse), structured logging, and unit testing support
 
 Running the Final Version
-bash
-Copy code
 python traffic_lightv3.py --image_dir ./images
 Running Unit Tests
-bash
-Copy code
 pytest test_traffic_light_control.py
 
 Sample Images
