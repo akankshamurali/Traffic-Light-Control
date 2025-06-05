@@ -6,8 +6,11 @@ Signal Decision: The lane with the highest congestion gets the green light first
 
 Code Versions Overview
 Version	Highlights
+
 v1	Basic prototype with manual input, repetitive logic, and hard-coded thresholds
+
 v2	Introduces functions, better readability, error handling
+
 v3	Fully modular with CLI (argparse), structured logging, and unit testing support
 
 Running the Final Version
