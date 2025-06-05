@@ -4,8 +4,7 @@ Baseline Subtraction: Subtracts emptyroad.jpeg from each lane image to isolate a
 Traffic Scoring: Estimates congestion by summing the active edge pixels.
 Signal Decision: The lane with the highest congestion gets the green light first.
 
-Code Versions Overview
-Version	Highlights
+Code Versions Overview 
 
 v1	Basic prototype with manual input, repetitive logic, and hard-coded thresholds
 
